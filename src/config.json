@@ -1,0 +1,9 @@
+{
+  "membersEndpoint": "http://localhost:3900/api/members",
+  "partnersEndoint": "http://localhost:3900/api/partners",
+  "memberAuthEndpoint": "http://localhost:3900/api/membersAuth",
+  "partnerAuthEndpoint": "http://localhost:3900/api/partnersAuth",
+  "earnPointsEndpoint": "http://localhost:3900/api/earnPoints",
+  "redeemPointsEndpoint": "http://localhost:3900/api/redeemPoints",
+  "transactionsEndpoint": "http://localhost:3900/api/transactions"
+}

@@ -1,0 +1,10 @@
+.jumbotron-background {
+  background-image: url(../images/belgrade-panorama.jpg);
+  background-position: center;
+}
+
+.custom-box {
+  padding: 3rem !important;
+  border-radius: 15px;
+  box-shadow: 0 4px 13px rgba(0, 0, 0, 0.11);
+}

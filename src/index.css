@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.btn {
+  margin-right: 20px;
+}
+
+.box {
+  background-color: #0070be;
+  align-items: center;
+  border-radius: 0.25rem;
+}
+
+.pills {
+  border-width: 0.8rem;
+  margin: 3rem;
+  font-size: large;
+}
+
+.welcome {
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #0070be;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+  align-content: space-between;
+}
+
+.card {
+  width: 18rem;
+  margin: 20px 40px;
+}
+th {
+  background-color: #007bff;
+  color: white;
+}
